@@ -1,5 +1,5 @@
 import { equal } from "assert";
-import index from "./index.js";
+import index from "./index.mjs";
 
 describe("TypeScript usage suite", () => {
   it("should be able to execute a test", () => {
